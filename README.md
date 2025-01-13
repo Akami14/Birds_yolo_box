@@ -4,7 +4,5 @@ The resulting cropped images produced by the code was used to prepare a large sh
 Birds 500 species dataset located at https://www.kaggle.com/datasets/gpiosenka/100-bird-species. While the model isn't perfect at creating the bounding box the resulting cropped images are in most cases adequate.
 
 
-(https://github.com/jon/coolproject/raw/master/image/image.png)
-![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
-![Иллюстрация к проекту](https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg)
-![Иллюстрация к проекту](https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg)
+![Birds](https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg)
+![Birds](https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg)
