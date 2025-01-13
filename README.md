@@ -3,5 +3,7 @@ There is only one class. The dataset was prepared so I could develop a model tha
 The resulting cropped images produced by the code was used to prepare a large share of the images in my 
 Birds 500 species dataset located at https://www.kaggle.com/datasets/gpiosenka/100-bird-species. While the model isn't perfect at creating the bounding box the resulting cropped images are in most cases adequate.
 
-https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg
-https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg
+
+(https://github.com/jon/coolproject/raw/master/image/image.png)
+![Иллюстрация к проекту] https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg 
+![Иллюстрация к проекту] https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg
