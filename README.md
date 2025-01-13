@@ -5,5 +5,6 @@ Birds 500 species dataset located at https://www.kaggle.com/datasets/gpiosenka/1
 
 
 (https://github.com/jon/coolproject/raw/master/image/image.png)
-![Иллюстрация к проекту] https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg 
-![Иллюстрация к проекту] https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg
+![alt text](https://raw.githubusercontent.com/username/projectname/commit/img.png)
+![Иллюстрация к проекту] (https://github.com/Akami14/Birds_yolo_box/blob/main/0243.jpg)
+![Иллюстрация к проекту] (https://github.com/Akami14/Birds_yolo_box/blob/main/0138.jpg)
